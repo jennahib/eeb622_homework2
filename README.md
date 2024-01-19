@@ -136,7 +136,7 @@ simulation’s results are stored in our estimated_b1 and p_value vectors.
 1)  Given the 1000 simulations, what is the probability that you will
     correctly reject the null hypothesis, assuming a significance
     threshold of 0.05? Given that probability, is a sample size of 10
-    birds likely to be sufficient to achieve your goals in this
+    birds likely to be sufficient to achieve your hypothesis testing goals in this
     experiment? Why or why not?
 
 2)  Increase your sample size and re-run the loop above. How does the
