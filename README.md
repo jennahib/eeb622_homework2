@@ -5,7 +5,8 @@ Please submit your answers to your Github Classroom repository for
 Homework 2. You are welcome to submit answers as an annotated script
 (inserting your answers into the “hw2 submission.R” document) or as an
 Rmarkdown document (if that’s something you enjoy working with, but no
-pressure to do that!).
+pressure to do that!). I use R markdown to create this readme, so you can
+modify the .Rmd file in this repo, if you'd like!
 
 We will have covered everything you need to complete this homework
 assignment by the end of Lecture 5 (though you should be able to begin
