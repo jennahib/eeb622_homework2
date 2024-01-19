@@ -141,7 +141,7 @@ simulation’s results are stored in our estimated_b1 and p_value vectors.
 
 2)  Increase your sample size and re-run the loop above. How does the
     probability of correctly rejecting the null hypothesis shift with an
-    increasing sample, assuming a significant threshold of 0.05? Explain
+    increasing sample, assuming a significance threshold of 0.05? Explain
     why the probability of rejecting the null changes.
 
 3)  The “estimated_b1” vector contains the estimate for the coefficient
