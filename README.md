@@ -116,7 +116,7 @@ p_values <- c() # Store the p-values for the coefficient for coconut weight
 for (i in 1:1000) {
   samplesize <- 10 # Set the sample size
   coconut.wt <- rnorm(samplesize, mean=500, sd=100) # Simulate a coconut weight variable (in g)
-  b0 <- 3200 # intercept
+  b0 <- 3200 # intercept (for velocity in m/hr)
   b1 <- -1 ## slope for the relationship between coconut.wt and distance travelled
   mu <- b0 + b1*coconut.wt # deterministic part of data generation
   velocity <- rnorm(samplesize, mean=mu, sd=200) # Now, take random draws from normal distribution
