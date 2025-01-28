@@ -1,4 +1,4 @@
-Homework \#2 - Linear Regression - due 1/30
+Homework \#2 - Linear Regression
 ================
 
 Please submit your answers to your Github Classroom repository for
@@ -9,8 +9,8 @@ pressure to do that!). I use R markdown to create this readme, so you can
 modify the .Rmd file in this repo, if you'd like!
 
 We will have covered everything you need to complete this homework
-assignment by the end of Lecture 5 (though you should be able to begin
-Questions 1-2 by the end of Lecture 4).
+assignment by the end of Lecture 6 (though you should be able to begin
+Questions 1-2 by the end of Lecture 5).
 
 ## Question 1
 
@@ -43,8 +43,8 @@ head(birds)
 
 1)  Load the bird migrations data set and fit a linear regression to
     test the following hypothesis:  
-    *Birds in areas experiencing greater warming in spring temperatures
-    experience greater phenological shifts, toward earlier departure
+    *Warming spring temperatures are correlated with shifts in 
+    migration date in bird populations, toward earlier departure
     dates (negative change in migration date).*  
     Include a plot of the response vs. the predictor, as well as a line
     showing the model’s mean prediction, using a method of your
