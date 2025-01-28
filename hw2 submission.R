@@ -5,10 +5,7 @@
 
 ## Question 1 ###############
 
-# 1A)  Load the bird migrations data set and fit a linear regression to test the following hypothesis:
-# Birds in areas experiencing greater warming in spring temperatures experience greater phenological shifts, toward earlier departure dates (negative change in migration date).
-# Include a plot of the response vs. the predictor, as well as a line showing the model's mean prediction, using a method of your choosing. Include the code for each and annotate below:
-
+# 1A)  Load the bird migrations data set and fit a linear regression to test the hypothesis described in the readme.
 
 
 # 1.B) Write a sentence describing model results for each goal of statistical inference:
